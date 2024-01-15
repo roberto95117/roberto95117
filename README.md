@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software developer focused on Angular, TypeScript & Java.
+
+I have created some repos while learning something new (you can check them out).
+
+I really like keep learning about the latest features of Angular, TypeScript & Java.
+
