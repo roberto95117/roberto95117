@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hey, I'm roberto 👋
+
+
 
 <!--
 **roberto95117/roberto95117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## 🚀 About me
 I'm a software developer focused on Angular, TypeScript & Java.
 
 I have created some repos while learning something new (you can check them out).
