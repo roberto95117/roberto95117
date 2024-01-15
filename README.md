@@ -23,3 +23,6 @@ I have created some repos while learning something new (you can check them out).
 
 I really like keep learning about the latest features of Angular, TypeScript & Java.
 
+## 📫 Connect with me
+You can connect with me on LinkedIn  www.linkedin.com/in/roberto-xocop-b55058a2
+
